@@ -1,6 +1,6 @@
 import Header from "./components/Header"
-import NotificationButton from "./components/NotificacionButton"
 import SalesCard from "./components/SalesCard"
+
 function App() {
   return (
     <>
